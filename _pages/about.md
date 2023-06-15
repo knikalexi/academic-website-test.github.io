@@ -10,4 +10,4 @@ redirect_from:
 
 Natalie Rickard - PhD Student in Economics - London Business School
 
-[Download paper here](http://nrickard.github.io/files/paper1.pdf)
+[CV](http://nrickard.github.io/files/CV.pdf)

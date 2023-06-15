@@ -8,3 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+[CV](http://nrickard.github.io/files/CV.pdf)
