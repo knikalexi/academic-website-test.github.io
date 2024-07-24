@@ -7,10 +7,12 @@ author_profile: true
 
 ## Working papers
 
-# Non-essential Business Cycles, with Michele Andreolli and Paolo Surico
+
+[Non-essential Business Cycles](https://conference.nber.org/conf_papers/f202255.pdf), with Michele Andreolli and Paolo Surico
+
 Using newly constructed time series of consumption, prices and earnings in essential and non-essential sectors, we document three main empirical regularities on post-WWII U.S. data: (i) spending on non-essentials is more sensitive to the business-cycle than spending on essentials; (ii) earnings in non-essential sectors are more cyclical than in essential sectors; (iii) low-earners are more likely to work in non-essential industries. We develop and estimate a structural model with non-homothetic preferences over two expenditure goods, hand-to-mouth consumers and heterogeneity in labour productivity that is consistent with these findings. We use the model to revisit the transmission of monetary policy and find that the interaction of cyclical product demand composition and cyclical labour demand composition greatly amplifies business-cycle fluctuations.
 
-[Link](https://conference.nber.org/conf_papers/f202255.pdf)
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
