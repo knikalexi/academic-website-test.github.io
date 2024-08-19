@@ -16,13 +16,13 @@ Presented:  PSE Macro Days, Barcelona School of Economics Summer Forum\*, CREi/U
 
 ## Projects
 
-[The Green Transition in a Putty-Clay model of Capital], with Simon Gilchrist and Joseba Martinez
+**_The Green Transition in a Putty-Clay model of Capital_**, with Simon Gilchrist and Joseba Martinez
 
-Presented: NYU Stern Macro lunch\*, CREi/UPF\*, Imperial\*
+<sub>*Presented: NYU Stern Macro lunch\*, CREi/UPF\*, Imperial\**</sub>
 
-[Inequalities in Insurance Climate Risks] (JMP)
+**_Inequalities in Insurance Climate Risks_** (JMP)
 
-Presented: LBS, NYU Student Lunch
+<sub>*Presented: LBS, NYU Student Lunch*</sub>
 
 \* = Presentations by co-authors
 
