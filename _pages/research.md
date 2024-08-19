@@ -15,9 +15,14 @@ Using newly constructed time series of consumption, prices and earnings in essen
 ## Projects
 
 **_The Green Transition in a Putty-Clay model of Capital_**, with Simon Gilchrist and Joseba Martinez
+
 <sub>*Presented: NYU Stern Macro lunch\*, CREi/UPF\*, Imperial\**</sub>
 
+
+
+
 **_Inequalities in Insurance Climate Risks_** (JMP)
+
 <sub>*Presented: LBS, NYU Student Lunch*</sub>
 
 \* = Presentations by co-authors
