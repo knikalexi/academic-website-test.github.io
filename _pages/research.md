@@ -21,7 +21,7 @@ Using newly constructed time series of consumption, prices and earnings in essen
 
 
 
-**_Inequalities in Insurance Climate Risks_** (JMP)
+**_Inequalities in Insuring Climate Risks_** (JMP)
 
 <sub>*Presented: LBS, NYU Student Lunch*</sub>
 

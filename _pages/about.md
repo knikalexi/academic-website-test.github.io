@@ -10,7 +10,7 @@ redirect_from:
 
 Natalie Rickard - PhD Student in Economics - London Business School
 
-I am a fifth year Economics PhD student at London Business School. My research agenda explores how heterogeneity can affect macroeconomic outcomes, particularly in the face of growing challenges presented by climate change. 
+I am a sixth year Economics PhD student at London Business School (expected graduation 2025). My research agenda explores how heterogeneity can affect macroeconomic outcomes, particularly in the face of growing challenges presented by climate change. 
 
 
 
