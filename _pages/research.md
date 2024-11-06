@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-# Working papers
+
 **_Inequalities in Insuring Climate Risks_** (JMP)
 
 Climate change is expected to lead to more frequent and severe extreme weather events. This paper examines how households anticipate and mitigate their exposure to these risks through adaptive investments and insurance, using an administrative dataset from the US National Flood Insurance Program covering over 70 million insurance policies. Following an increase in flood risk awareness, households in higher income areas are more likely to invest in adaptation, while households in poorer areas tend to rely more heavily on insurance. To explore the implications of these dynamics, I develop a heterogeneous agent model of climate risk, where households make decisions on adaptation and insurance to protect their housing stock amidst a gradual rise in climate risk. Lower income, financially constrained households are slower to invest in adaptation, leading to greater and more unequal economic damage from climate change. Moving away from the current subsidisation of insurance could increase resilience to climate risk.
