@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 
-**_Inequalities in Insuring Climate Risks_** (JMP)
+**_Sheltering from Climate Risks_** (JMP)
 
-Climate change is expected to lead to more frequent and severe extreme weather events. This paper examines how households anticipate and mitigate their exposure to these risks through adaptive investments and insurance, using an administrative dataset from the US National Flood Insurance Program covering over 70 million insurance policies. Following an increase in flood risk awareness, households in higher income areas are more likely to invest in adaptation, while households in poorer areas tend to rely more heavily on insurance. To explore the implications of these dynamics, I develop a heterogeneous agent model of climate risk, where households make decisions on adaptation and insurance to protect their housing stock amidst a gradual rise in climate risk. Lower income, financially constrained households are slower to invest in adaptation, leading to greater and more unequal economic damage from climate change. Moving away from the current subsidisation of insurance could increase resilience to climate risk.
+Using administrative data on flood insurance, I document pervasive heterogeneity in the adaptive investments of American households. In response to increasing climate risks, affluent home-owners tend to elevate their properties whereas poorer households rely on higher levels of insurance. I develop a climate risk model with heterogeneous agents, housing insurance and adaptation investment that can account for these findings. Counterfactual simulations reveal that as climate risk rises, financially constrained households avoid investing in adaption in favour of insurance subsidised by the government. As a result, the poorest households hold an increasing share of the housing stock most exposed to climate risks.
 
 <sub>*Presented: LBS, NYU Student Lunch*</sub>
 
