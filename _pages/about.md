@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-PhD Student in Economics - London Business School
 
-I am a sixth year Economics PhD student at London Business School, on the job market 2024/25. My research agenda explores how heterogeneity can affect macroeconomic outcomes, particularly in the face of growing challenges presented by climate change.
+
+I am a PhD candidate in Economics at London Business School, on the job market 2024/25. My research agenda explores how heterogeneity can affect macroeconomic outcomes, particularly in the face of growing challenges presented by climate change.
 
 [CV](http://nrickard.github.io/files/NatalieRickard_CV.pdf)
 
