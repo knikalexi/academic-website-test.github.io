@@ -19,7 +19,7 @@ I am a PhD candidate in Economics at London Business School, on the job market 2
 
 [Sheltering from Climate Risks](http://nrickard.github.io/files/NatalieRickard_JMP.pdf) (JMP)
 
-Using administrative data on flood insurance, I document pervasive heterogeneity in the adaptive investments of American households. In response to increasing climate risks, affluent home-owners tend to elevate their properties whereas poorer households rely on higher levels of insurance. I develop a climate risk model with heterogeneous agents, housing insurance and adaptation investment that can account for these findings. Counterfactual simulations reveal that as climate risk rises, financially constrained households avoid investing in adaption in favour of insurance subsidised by the government. As a result, the poorest households hold an increasing share of the housing stock most exposed to climate risks.
+Using administrative data on flood insurance, I document pervasive heterogeneity in the adaptive investments of American households. In response to increasing climate risks, affluent home-owners tend to elevate their properties whereas poorer households rely on higher levels of insurance. I develop a climate risk model with heterogeneous agents, housing insurance and investment in adaptation that can account for these findings. Counterfactual simulations reveal that as climate risk rises, financially constrained households avoid investing in adaption in favour of insurance subsidised by the government. As a result, the poorest households hold an increasing share of the housing stock most exposed to climate risks.
 
 <sub>*Presented: LBS, NYU Student Lunch*</sub>
 
