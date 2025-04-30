@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am a PhD candidate in Economics at London Business School, on the job market 2024/25. My research agenda explores how heterogeneity can affect macroeconomic outcomes, particularly in the face of growing challenges presented by climate change.
+I am a PhD candidate in Economics at London Business School, and will be joining the Bank of England as a Research Economist in Autumn 2025. My research agenda explores how heterogeneity can affect macroeconomic outcomes, particularly in the face of growing challenges presented by climate change.
 
 [CV](http://nrickard.github.io/files/NatalieRickard_CV.pdf)
 
