@@ -34,7 +34,7 @@ This paper documents three main regularities on post-WWII data for the United St
 
 <sub>*Presented:  PSE Macro Days, Barcelona School of Economics Summer Forum\*, CREi/UPF\*, Boston College\*, LBS, Norges Bank\*, EWMES, SEA\*, RES\*, ECB ChaMP Conference\*, Midwest Macro, NASM of the Econometric Society\*, SED, NBERSI (Monetary Economics)\*, Oslo Macro Conference, Princeton\**</sub>
 
-[The Green Energy Transition in a Putty-Clay Model of Capital](http://nrickard.github.io/files/GreenTransitionPuttyClay_GilchristMartinezRickard_Oct24.pdf), with Simon Gilchrist and Joseba Martinez
+[The Green Energy Transition in a Putty-Clay Model of Capital](http://nrickard.github.io/files/GreenTransitionPuttyClay_GilchristMartinezRickard.pdf), with Simon Gilchrist and Joseba Martinez
 
 We develop an integrated assessment model (IAM) that incorporates a putty-clay technology for capital accumulation in both the energy and final goods sectors. Final-goods production requires energy inputs that are produced by either a fossil-fuel burning sector or a clean energy sector. Following the IAM literature, fossil fuel usage leads to an accumulation of carbon that reduces aggregate production through a climate damage function that is external to the choices made by households and firms. The putty-clay features of the model imply delayed adjustment of fossil-fuel use to carbon taxes. Because of these delays, the carbon tax must be forty percent larger in the putty-clay model relative to a more standard model of vintage capital to meet the same carbon stock goals over a thirty year horizon. Green energy subsidies are also effective in reducing carbon stocks in the medium run but have a lower impact on longer-term fossil fuel use compared to carbon taxes of comparable size.
 
