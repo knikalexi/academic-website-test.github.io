@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 
-I am a PhD candidate in Economics at London Business School, advised by Professor Hélène Rey.  
-My research interests include **applied macroeconomics, international trade, monetary policy, and urban economics**.  
+I am a PhD candidate in Economics at London Business School, advised by Professor Hélène Rey.  My research interests include **applied macroeconomics, international trade, monetary policy, and urban economics**.  
 
 ### CV
 [Download my CV](/files/KNikalexi_CV.pdf)
