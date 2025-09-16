@@ -13,13 +13,13 @@ I am a PhD candidate in Economics at London Business School, advised by Professo
 
 [Download my CV](/files/KNikalexi_CV.pdf)
 
-- **Job market paper:**
+**Job market paper:**
 
 *Ports and Power* (2025)
   
   Investigates the impact of Chinese state-led port investments on Europe’s subnational trade network, using 1.6M truck-level shipments across 338 regions (2011–2022).  
 
-- **Publications**:  
+**Publications**:  
 
 de Groot, O., Hauptmeier, S., Holm-Hadulla, F., and Nikalexi, K. (2025). Monetary Policy and Regional
 Inequality. ECB Working Paper 2385. R&R on *The Economic Journal*.
