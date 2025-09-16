@@ -13,7 +13,6 @@ I am a PhD candidate in Economics at London Business School, advised by Professo
 
 [Download my CV](/files/KNikalexi_CV.pdf)
 
----
 - **Job market paper:**
 
 *Ports and Power* (2025)
