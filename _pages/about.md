@@ -18,7 +18,10 @@ My research interests include **applied macroeconomics, international trade, mon
 ---
 
 ### Selected Research
-- **Job market paper:** *Ports and Power* (2025).  
+- **Job market paper:**
+
+*Ports and Power* (2025).
+  
   Investigates the impact of Chinese state-led port investments on Europe’s subnational trade network, using 1.6M truck-level shipments across 338 regions (2011–2022).  
 
 - **Publications**:  
