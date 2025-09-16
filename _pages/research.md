@@ -5,32 +5,43 @@ permalink: /research/
 author_profile: true
 ---
 
-[Sheltering from Climate Risks](http://nrickard.github.io/files/NatalieRickard_JMP.pdf) (JMP)
+## Job Market Paper
 
-Using administrative data on flood insurance, I document pervasive heterogeneity in the adaptive investments of American households. In response to increasing climate risks, affluent home-owners tend to elevate their properties whereas poorer households rely on higher levels of insurance. I develop a climate risk model with heterogeneous agents, housing insurance and investment in adaptation that can account for these findings. Counterfactual simulations reveal that as climate risk rises, financially constrained households avoid investing in adaption in favour of insurance subsidised by the government. As a result, the poorest households hold an increasing share of the housing stock most exposed to climate risks.
+[**Ports and Power**](/files/KNikalexi_JMP.pdf) (2025)
 
-<sub>*Presented: LBS, NYU Student Lunch*</sub>
+Can foreign state actors reshape the map of European trade?  
+This paper investigates the impact of Chinese state-led port investments on the subnational trade network within Europe, leveraging the staggered acquisition of stakes in 20 European ports and using 1.6 million truck-level quarterly shipments across 338 NUTS2 regions (2011–2022). I employ a shift–share event-study framework and exploit pre-investment trade dependence on port regions and their network-mediated links to estimate exposure to investment shocks.  
 
-[Non-essential Business Cycles](http://nrickard.github.io/files/AndreolliRickardSurico_NEBC.pdf), with Michele Andreolli and Paolo Surico
+<sub>*Presented at: 23rd Conference on Research in Economic Theory & Economics, LBS, LSE (forthcoming)*</sub>:contentReference[oaicite:1]{index=1}
 
-This paper documents three main regularities on post-WWII data for the United States: (i) spending on non-essentials is more sensitive to the business-cycle than spending on essentials; (ii) earnings in non-essential sectors are more cyclical than earnings in essential sectors; (iii) non-essential industries employ a larger share of hand-to-mouth workers. We develop and estimate a two-sector New-Keynesian model with non-homothetic preferences, hand-to-mouth workers and sectoral labour force heterogeneity that is consistent with these findings. We use the model to revisit the transmission of stabilisation policies. A main finding is that the interaction of cyclical product demand composition and cyclical labour demand composition greatly amplifies the effects of monetary policy, which in our economy can be equivalently implemented by a mix of consumption and labour taxes. However, a VAT change applied only to non-essentials (only to essentials) has a far larger (smaller) impact than a uniform VAT change of the same size.
+---
 
-<sub>*[Online Appendix](http://nrickard.github.io/files/AndreolliRickardSurico_NEBC_OnlineAppendix.pdf)*</sub>,<sub>*[VOXEU Summary](https://cepr.org/voxeu/columns/how-spending-rich-drives-income-poor-and-why-matters-business-cycle)*</sub>
+## Publications
 
-<sub>*Media coverage: [JP Morgan Private Bank Insights](https://privatebank.jpmorgan.com/nam/en/insights/markets-and-investing/how-will-the-rate-cutting-cycle-impact-economic-activity-and-market-returns)*</sub>
+[**Monetary Policy and Regional Inequality**](/files/Nikalexi_RegionalInequality.pdf),  
+with de Groot, Hauptmeier, Holm-Hadulla. ECB Working Paper 2385. R&R at *The Economic Journal*.  
 
-<sub>*Presented:  PSE Macro Days, Barcelona School of Economics Summer Forum\*, CREi/UPF\*, Boston College\*, LBS, Norges Bank\*, EWMES, SEA\*, RES\*, ECB ChaMP Conference\*, Midwest Macro, NASM of the Econometric Society\*, SED, NBERSI (Monetary Economics)\*, Oslo Macro Conference, Princeton\**</sub>
+We study the impact of monetary policy on regional inequality using granular data on economic activity at the city- and county-level in Europe. We document pronounced heterogeneity in the regional patterns of monetary policy transmission. The output response to monetary policy shocks is stronger and more persistent in poorer regions, with the difference becoming particularly pronounced in the tails of the distribution. Regions in the lower parts of the distribution exhibit hysteresis, consisting of long-lived adjustments in employment and labor productivity in response to the shocks. As a consequence, policy tightening aggravates regional inequality and policy easing mitigates it. Finally, we provide a structural interpretation of our results using a New Keynesian Currency Union Model with hysteresis effects.  
 
-[The Green Energy Transition in a Putty-Clay Model of Capital](http://nrickard.github.io/files/GreenTransitionPuttyClay_GilchristMartinezRickard.pdf), with Simon Gilchrist and Joseba Martinez
+<sub>*Presented at: EEA\*, AEA\*, LBS, ECB, CEBRA\*, IAAE\*, WFC\*, SRSA, Paris Dauphine PhD Workshop, LSE, ICMAIF\**</sub>:contentReference[oaicite:2]{index=2}
 
-We develop an integrated assessment model (IAM) that incorporates a putty-clay technology for capital accumulation in both the energy and final goods sectors. Final-goods production requires energy inputs that are produced by either a fossil-fuel burning sector or a clean energy sector. Following the IAM literature, fossil fuel usage leads to an accumulation of carbon that reduces aggregate production through a climate damage function that is external to the choices made by households and firms. The putty-clay features of the model imply delayed adjustment of fossil-fuel use to carbon taxes. Because of these delays, the carbon tax must be forty percent larger in the putty-clay model relative to a more standard model of vintage capital to meet the same carbon stock goals over a thirty year horizon. Green energy subsidies are also effective in reducing carbon stocks in the medium run but have a lower impact on longer-term fossil fuel use compared to carbon taxes of comparable size.
+---
 
-<sub>*Recipient of a grant from the [Wheeler Institute, supported by the Sui Foundation](https://wheelerinstituteresearch.org/project/putty-clay-and-the-green-transition/)*</sub>
+[**The Globalization of Corporate Control**](https://doi.org/10.1016/j.jinteco.2023.103794),  
+with Fonseca and Papaioannou. *Journal of International Economics*, Vol. 146, 2023.  
 
-<sub>*Presented: NYU Stern Macro lunch\*, CREi/UPF\*, Imperial\*, Maryland\*, Chicago\**</sub>
+The internationalization of corporate control is a complex and poorly understood aspect of globalization, as it is challenging to trace controlling shareholders due to often opaque structures of ownership. We identify controlling shareholders for 22,000 listed firms to study the globalization of control. The network of international control appears very sparse, with strong home bias. A baseline gravity structure works well, as bilateral links are more potent for populous, affluent, and proximate countries. Institutions and tax haven status at source and destination play a modest role. Legal similarities, economic policy coordination, and cultural, linguistic, and historical ties play a non-negligible role. Policy and legal similarities matter for financial institutions and banks, while informational/cultural barriers matter more for individuals/families. International diversification motives play no major role. The results have implications for theoretical works on the internationalization of corporate control markets.  
 
-\* = Presentations by co-authors
+<sub>*Presented at: NBER ISoM 2022\*, LBS, Bank of Chile\*, Goethe University\**</sub>:contentReference[oaicite:3]{index=3}
 
+---
+
+## Policy Writing
+
+- *Monetary Policy and Inequality* (with Hauptmeier & Holm-Hadulla). **ECB Economic Bulletin**, Issue 2, 2021.  
+- *How to Lower Student Loan Defaults: Simplify Enrollment in Income-Driven Repayment Plans* (with Yannelis). **Manhattan Institute Policy Report**, 2019. :contentReference[oaicite:4]{index=4}
+
+---
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
