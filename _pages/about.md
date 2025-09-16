@@ -21,8 +21,8 @@ I am a PhD candidate in Economics at London Business School, advised by Professo
 
 - **Publications**:  
 
-de Groot, O., Hauptmeier, S., Holm-Hadulla, F., and <u>Nikalexi <u>, K. (2025). Monetary Policy and Regional
+de Groot, O., Hauptmeier, S., Holm-Hadulla, F., and Nikalexi, K. (2025). Monetary Policy and Regional
 Inequality. ECB Working Paper 2385. R&R on *The Economic Journal*.
 
-Fonseca, L., <u>Nikalexi <u>, K., and Papaioannou, E. (2023). The Globalization of Corporate Control. *Journal of
+Fonseca, L., Nikalexi, K., and Papaioannou, E. (2023). The Globalization of Corporate Control. *Journal of
 International Economics*, Vol. 146.
