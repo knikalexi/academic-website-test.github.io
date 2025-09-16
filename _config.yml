@@ -81,7 +81,7 @@ google_analytics: G-JXZ1DG79QW
 
 # Site Author
 author:
-  name             : "Katerina Nikalexi"
+  name             : #"Katerina Nikalexi"
   avatar           : #"/files/kat_photo.png"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
