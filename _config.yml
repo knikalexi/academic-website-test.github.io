@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Natalie Rickard"
+title                    : "Katerina Nikalexi"
 title_separator          : "-"
-name                     : &name "Natalie Rickard"
+name                     : &name "Katerina Nikalexi"
 description              : &description "personal description"
-url                      : https://nrickard.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://knikalexi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nrickard/nrickard.github.io"
+repository               : "knikalexi/knikalexi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
