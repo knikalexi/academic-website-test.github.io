@@ -13,7 +13,7 @@ I am a PhD candidate in Economics at London Business School, advised by Professo
 My research interests include **applied macroeconomics, international trade, monetary policy, and urban economics**.  
 
 ### CV
-[Download my CV](/files/cv.pdf)
+[Download my CV](/files/KNikalexi_CV.pdf)
 
 ---
 
