@@ -21,6 +21,9 @@ I am a PhD candidate in Economics at London Business School, advised by Professo
   Investigates the impact of Chinese state-led port investments on Europe’s subnational trade network, using 1.6M truck-level shipments across 338 regions (2011–2022).  
 
 - **Publications**:  
-  - *Monetary Policy and Regional Inequality* (with de Groot, Hauptmeier, Holm-Hadulla). ECB WP 2385. R&R at *The Economic Journal*.  
-  - *The Globalization of Corporate Control* (with Fonseca, Papaioannou). *Journal of International Economics*, 2023.  
 
+de Groot, O., Hauptmeier, S., Holm-Hadulla, F., and <u>Nikalexi<u>, K. (2025). Monetary Policy and Regional
+Inequality. ECB Working Paper 2385. R&R on The Economic Journal.
+
+Fonseca, L., <u>Nikalexi<u>, K., and Papaioannou, E. (2023). ‘The Globalization of Corporate Control’. Journal of
+International Economics, Vol. 146.
