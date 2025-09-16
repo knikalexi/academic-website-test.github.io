@@ -9,8 +9,6 @@ redirect_from:
 ---
 
 
-Hi, I’m **Katerina Nikalexi** 👋  
-
 I am a PhD candidate in Economics at London Business School, advised by Professor Hélène Rey.  
 My research interests include **applied macroeconomics, international trade, monetary policy, and urban economics**.  
 
