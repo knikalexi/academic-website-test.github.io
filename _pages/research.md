@@ -9,8 +9,7 @@ author_profile: true
 
 **Ports and Power** (2025)
 
-Can foreign state actors reshape the map of European trade?  
-This paper investigates the impact of Chinese state-led port investments on the subnational trade network within Europe, leveraging the staggered acquisition of stakes in 20 European ports and using 1.6 million truck-level quarterly shipments across 338 NUTS2 regions (2011–2022). I employ a shift–share event-study framework and exploit pre-investment trade dependence on port regions and their network-mediated links to estimate exposure to investment shocks.  
+Can foreign state actors reshape the map of European trade? I investigate the impact of Chinese state-led port investments on the subnational trade network within Europe, leveraging the staggered acquisition of stakes in 20 European ports and using 1.6 million truck-level quarterly shipments across 338 NUTS2 regions (2011–2022). I employ a shift–share event-study framework and exploit pre-investment trade dependence on port regions and their network-mediated links to estimate exposure to investment shocks. I find that more exposed regions experience declines in both exports and imports and a contraction in the diversity of their trading partners.
 
 <sub>*Presented at: 23rd Conference on Research in Economic Theory & Economics, LBS, LSE (forthcoming)*
 
